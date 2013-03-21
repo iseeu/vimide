@@ -186,3 +186,4 @@ let g:miniBufExplMoreThanOne=0
 set encoding=utf-8
 set fileencodings=ucs-bom,utf-8,cp936
 
+set foldmethod=syntax
